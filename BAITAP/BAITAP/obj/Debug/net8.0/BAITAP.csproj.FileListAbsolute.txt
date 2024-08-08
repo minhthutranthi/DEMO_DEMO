@@ -1,0 +1,14 @@
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\bin\Debug\net8.0\BAITAP.exe
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\bin\Debug\net8.0\BAITAP.deps.json
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\bin\Debug\net8.0\BAITAP.runtimeconfig.json
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\bin\Debug\net8.0\BAITAP.dll
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\bin\Debug\net8.0\BAITAP.pdb
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\obj\Debug\net8.0\BAITAP.GeneratedMSBuildEditorConfig.editorconfig
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\obj\Debug\net8.0\BAITAP.AssemblyInfoInputs.cache
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\obj\Debug\net8.0\BAITAP.AssemblyInfo.cs
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\obj\Debug\net8.0\BAITAP.csproj.CoreCompileInputs.cache
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\obj\Debug\net8.0\BAITAP.dll
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\obj\Debug\net8.0\refint\BAITAP.dll
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\obj\Debug\net8.0\BAITAP.pdb
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\obj\Debug\net8.0\BAITAP.genruntimeconfig.cache
+D:\LuuDuLieuHocTap\DEMO\BAITAP\BAITAP\obj\Debug\net8.0\ref\BAITAP.dll
